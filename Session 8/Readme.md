@@ -96,7 +96,7 @@ Epoch: 20 | Time: 0m 52s
 
 ## Perplexity
 
-<img src="assets/perplexity.png" width="600">
+<img src=https://github.com/sarvan0506/END/blob/saravana/Session8/assets/perplexity.png" width="600">
 
 
 # Part 2: Create 100 python programs with description and code.
