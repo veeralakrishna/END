@@ -103,6 +103,7 @@ Epoch: 20 | Time: 0m 52s
 
 Please find the descriptions of the program below. Refer `sample.py` for code
 
+```
 1. write a python function to find and return nth element in a user provided list
 2. write a python function to sort an array using binary search algorithm
 3. write a python program to seperate each character in a string with <space>
@@ -205,3 +206,4 @@ datetime object containing current date and time
 98. Write a python function to convert roman to int
 99. Write a python function to convert celsius to kelvin
 100. Write a python function to convert celsius to rankiine
+```
